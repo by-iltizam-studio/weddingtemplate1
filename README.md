@@ -1,1 +1,1 @@
-# weddingtemplate1
+# landing page
